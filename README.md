@@ -1,6 +1,3 @@
-<h1 align="center">⚛️ Clonebot - Heroku/Railway/Qovery version ⚡<br></h1> 
-
-<br />
 
 <p align="center">CloneBot is a telegram bot that allows you to copy folder/team drive to team drives. One of the main advantage of this bot is that you can host it to Heroku for free.<p/>
 
